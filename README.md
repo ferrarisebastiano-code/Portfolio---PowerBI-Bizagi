@@ -21,4 +21,4 @@ This space will feature case studies related to:
 3.  Mapping of procurement and supply chain processes.
 
 ---
-*Focused on precision, corporate governance compliance, and technical support for management.*
+*Focused on precision, corporate governance compliance and technical support for management.*
