@@ -22,7 +22,7 @@ This space will feature case studies related to:
 
 ### 📫 Contact Me
 
-*   **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+*   **LinkedIn:** https://www.linkedin.com/in/sebastianof/
 
 ---
 *Focused on precision, corporate governance compliance and technical support for management.*
