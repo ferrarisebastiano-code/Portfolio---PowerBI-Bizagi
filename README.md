@@ -20,5 +20,9 @@ This space will feature case studies related to:
 2.  Optimization of management reporting.
 3.  Mapping of procurement and supply chain processes.
 
+### 📫 Contact Me
+
+*   **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+
 ---
 *Focused on precision, corporate governance compliance and technical support for management.*
