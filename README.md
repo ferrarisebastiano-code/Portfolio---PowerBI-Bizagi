@@ -1,7 +1,7 @@
 # Portfolio: Business Intelligence & Process Modeling
 
 ### 👤 Professional Profile
-Process Modeling and Data Analysis Specialist with a focus on **operational transparency**.
+Process Modeling and Data Analysis Specialist with a focus on Fashion & Luxury supply chain operations.
 
 My goal is to transform complex workflows and raw data into visual tools that support management in strategic decision-making, while respecting established organizational dynamics and governance.
 
