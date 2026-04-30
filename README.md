@@ -11,7 +11,7 @@ My goal is to transform complex workflows and raw data into visual tools that su
 
 *   **BPMN Modeling (Bizagi):** Formal documentation of business processes to improve role clarity and operational efficiency.
 *   **Data Analytics (Power BI):** Processing raw data to create executive dashboards and KPI monitoring tools.
-*   **Data Management:** Analysis and cleaning of datasets from corporate databases or structured Excel files.
+*   **Data Management:** Analysis and cleaning of datasets from corporate databases and structured Excel files.
 
 ### 📈 Upcoming Projects
 
