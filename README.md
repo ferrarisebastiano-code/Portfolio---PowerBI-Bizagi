@@ -1,7 +1,8 @@
 # Portfolio: Business Intelligence & Process Modeling
 
 ### 👤 Professional Profile
-Process Modeling and Data Analysis Specialist with a focus on Fashion & Luxury supply chain operations.
+Business Systems & Product Data Specialist with experience in PLM, ERP and cross-functional operations within Fashion & Luxury environments.
+Currently expanding analytics capabilities through Power BI and process modeling.
 
 My goal is to transform complex workflows and raw data into visual tools that support management in strategic decision-making, while respecting established organizational dynamics and governance.
 
