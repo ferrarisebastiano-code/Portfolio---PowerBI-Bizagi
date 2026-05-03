@@ -1,8 +1,13 @@
 # Portfolio: Business Intelligence & Process Modeling
 
 ### 👤 Professional Profile
-Business Systems & Product Data Specialist with experience in PLM, ERP and cross-functional operations within Fashion & Luxury environments.
-Currently expanding analytics capabilities through Power BI and process modeling.
+## Business Systems | Product Data | Analytics Upskilling
+
+Business professional with solid experience in Product Data Management, PLM systems, ERP processes and cross-functional operations developed in international Fashion & Luxury environments.
+
+My background combines operational execution, structured data management and business process understanding. I have worked across product lifecycle activities, master data governance, BOM structures, supplier coordination and system-related workflows.
+
+Currently expanding my capabilities in Data Analytics, Process Modeling and Business Intelligence to bridge business operations with data-driven decision making.
 
 My goal is to transform complex workflows and raw data into visual tools that support management in strategic decision-making, while respecting established organizational dynamics and governance.
 
