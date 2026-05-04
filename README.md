@@ -8,9 +8,15 @@ Background focused on managing product lifecycle data, BOM structures and cross-
 
 Hands-on experience in PLM (Centric 8), ERP environments and collaboration with IT teams during system-related activities, including UAT and process alignment.
 
-Currently expanding capabilities in Data Analytics (Power BI) and Process Modeling (BPMN) to support data-driven decision making and improve operational transparency.
+## ♻️ Circular Economy & Data
 
-Interested in the evolution of product data, traceability and digital frameworks (e.g. Digital Product Passport) within complex supply chain environments.
+I am interested in how structured product data, BOM management and system integration can enable traceability, operational efficiency and sustainability across complex supply chains.
+
+I see frameworks such as the Digital Product Passport as a natural evolution of product data systems, where data quality, consistency and integration become key enablers of circular business models.
+
+My current upskilling path in Data Analytics (Power BI) and Process Modeling (BPMN) is also oriented toward supporting these challenges through data-driven decision making.
+
+This direction complements my background in product data and system workflows, positioning data as a key enabler of operational efficiency and future sustainability requirements.
 
 ---
 
