@@ -26,14 +26,15 @@ Interested in the evolution of product data, traceability and digital frameworks
 
 ---
 
-## 📈 Upcoming Projects
+## 📈 Projects (Work in Progress)
 
-This space will feature case studies focused on:
+Currently developing hands-on projects to strengthen data and process analysis capabilities, with focus on:
 
-- Inventory analysis and warehouse optimization
-- Executive KPI dashboards (Power BI)
-- Procure-to-Pay and supply chain process mapping
-- Product master data quality analysis
+- Business data visualization using Power BI  
+- Process mapping and documentation (BPMN – Bizagi)  
+- Data structuring and KPI monitoring for operational workflows  
+
+Projects will be published progressively as part of a structured upskilling path.
 
 ---
 
