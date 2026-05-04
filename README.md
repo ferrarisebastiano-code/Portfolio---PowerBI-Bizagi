@@ -1,34 +1,42 @@
-# Portfolio: Business Intelligence & Process Modeling
+# 👤 Professional Profile
 
-### 👤 Professional Profile
-## Business Systems | Product Data | Analytics Upskilling
+## Business Systems | Product Data | Analytics
 
-Business professional with solid experience in Product Data Management, PLM systems, ERP processes and cross-functional operations developed in international Fashion & Luxury environments.
+Business professional with experience in Product Data Management, PLM systems and ERP processes within international Fashion & Luxury environments.
 
-My background combines operational execution, structured data management and business process understanding. I have worked across product lifecycle activities, master data governance, BOM structures, supplier coordination and system-related workflows.
+Background focused on managing product lifecycle data, BOM structures and cross-functional workflows, acting as a bridge between business operations and digital systems.
 
-Currently expanding my capabilities in Data Analytics, Process Modeling and Business Intelligence to bridge business operations with data-driven decision making.
+Hands-on experience in PLM (Centric 8), ERP environments and collaboration with IT teams during system-related activities, including UAT and process alignment.
 
-My goal is to transform complex workflows and raw data into visual tools that support management in strategic decision-making, while respecting established organizational dynamics and governance.
+Currently expanding capabilities in Data Analytics (Power BI) and Process Modeling (BPMN) to support data-driven decision making and improve operational transparency.
+
+Interested in the evolution of product data, traceability and digital frameworks (e.g. Digital Product Passport) within complex supply chain environments.
+
+---
+
+## 🛠️ Technical Skills
+
+- PLM Systems (Centric 8)
+- ERP Processes (SAP exposure)
+- Product Data Management & Master Data
+- Bills of Materials (BOM)
+- UAT & Process Mapping
+- Data Analytics (Power BI – ongoing projects)
+- BPMN Modeling (Bizagi)
 
 ---
 
-### 🛠️ Technical Skills
+## 📈 Upcoming Projects
 
-*   **BPMN Modeling (Bizagi):** Formal documentation of business processes to improve role clarity and operational efficiency.
-*   **Data Analytics (Power BI):** Processing raw data to create executive dashboards and KPI monitoring tools.
-*   **Data Management:** Analysis and cleaning of datasets from corporate databases and structured Excel files.
+This space will feature case studies focused on:
 
-### 📈 Upcoming Projects
-
-This space will feature case studies related to:
-1.  Inventory analysis and warehouse workflows.
-2.  Optimization of management reporting.
-3.  Mapping of procurement and supply chain processes.
-
-### 📫 Contact Me
-
-*   **LinkedIn:** https://www.linkedin.com/in/sebastianof/
+- Inventory analysis and warehouse optimization
+- Executive KPI dashboards (Power BI)
+- Procure-to-Pay and supply chain process mapping
+- Product master data quality analysis
 
 ---
-*Focused on precision, corporate governance compliance and technical support for management.*
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/sebastianof/
