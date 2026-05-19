@@ -27,6 +27,7 @@ This direction complements my background in product data and system workflows, p
 - Product Data Management & Master Data
 - Bills of Materials (BOM)
 - UAT & Process Mapping
+- SQL Querying & Relational Databases (ongoing practical learning)
 - Data Analytics & Reporting (Power BI – ongoing projects)
 - BPMN Modeling (Bizagi)
 
